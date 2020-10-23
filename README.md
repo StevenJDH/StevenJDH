@@ -95,6 +95,8 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#136](https://github.com/dgkanatsios/CKAD-exercises/issues/136) in [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+2. 💪 Opened PR [#136](https://github.com/dgkanatsios/CKAD-exercises/pull/136) in [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 <!--END_SECTION:activity-->
 
 </details>

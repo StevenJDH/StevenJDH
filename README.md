@@ -1,9 +1,10 @@
 <img align="right" height="250" width="375" alt="" src="assets/coder.gif" />
 
-## Hello, I'm Steven (สตีเวน) - aka [StevenJDH][website] on GitHub <img src="assets/Hi.gif" width="25px">
+## Hello, I'm Steven (สตีเวน) - aka [StevenJDH][website] <img src="assets/Hi.gif" width="25px">
 
-[![Website](https://img.shields.io/website?down_color=green&down_message=Full&label=Buy%20me%20a%20beer&style=for-the-badge&up_color=yellow&up_message=Thirsty&url=https%3A%2F%2Fwww.paypal.me%2Fstevenjdh%2F5)](https://www.paypal.me/stevenjdh/5)
-![Twitter Follow](https://img.shields.io/twitter/follow/steventhecoder?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?down_color=green&down_message=Full&label=🍺Buy%20me%20a%20beer&style=for-the-badge&up_color=yellow&up_message=Thirsty&url=https%3A%2F%2Fwww.paypal.me%2Fstevenjdh%2F5)](https://www.paypal.me/stevenjdh/5)
+[![Twitter Follow](https://img.shields.io/twitter/follow/steventhecoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStevenJDH&screen_name=steventhecoder)
+
 
 ## I'm a Developer, Traveler, Entrepreneur, and Photographer!!
 
@@ -19,7 +20,7 @@
 [<img align="left" alt="StevenJDH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StevenJDH | dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
 
-<br />
+<br> <!--- Ignored by GitHub here. Only used for proper VS Code rendering. -->
 
 ### Languages and Tools:
 
@@ -64,10 +65,9 @@
 [<img align="left" alt="kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />](https://kafka.apache.org/)
 [<img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />](https://www.linux.org/)
 [<img align="left" alt="illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/products/illustrator.html)
-[<img align="left" alt="photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />](https://www.adobe.com/products/photoshop.html)
+[<img align="left" alt="photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />](https://www.adobe.com/products/photoshop.html)<br>
 
-<br />
-<br />
+<br> <!--- Ignored by GitHub here. Only used for proper VS Code rendering. -->
 
 ---
 

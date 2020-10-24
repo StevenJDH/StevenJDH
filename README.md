@@ -88,6 +88,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First Post](https://dev.to/stevenjdh/first-post-5c0e)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/stevenjdh)

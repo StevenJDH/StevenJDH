@@ -1,4 +1,4 @@
-name: Latest Blog Posts
+name: Latest GitHub Activity
 on:
   schedule:
     # Runs every hour
@@ -6,11 +6,11 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly.
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-activity:
+    name: Update this repo's README with latest GitHub activity
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/stevenjdh"
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

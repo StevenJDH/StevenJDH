@@ -84,6 +84,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Show your Tweets on your GitHub Profile README](https://dev.to/stevenjdh/show-your-tweets-on-your-github-profile-readme-141i)
 - [First Post](https://dev.to/stevenjdh/first-post-5c0e)
 <!-- BLOG-POST-LIST:END -->
 

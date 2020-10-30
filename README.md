@@ -70,11 +70,7 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [steventhecoder: Sadly, it looks like #Docker will start to enforce rate limits of 100 container image pulls (200 for Free authenticated users) every 6 hours starting Monday. New image-retention policies have been pushed until mid-2021.](https://twitter.com/steventhecoder/status/1321717450887647232)
-- [@steventhecoder: #Coroutines (#C++20), not a bad addition to the standard, reminds me of await and yield in C#](https://twitter.com/steventhecoder/status/1307637925606232064)
-- [@steventhecoder: Perfect replacement for #Blackpanther. Both are good actors. #WakandaForever! RIP #ChadwickBoseman. #TenetMovie](https://twitter.com/steventhecoder/status/1299839029878370305)
-- [@steventhecoder: You can #travel a good part of, or the whole of, the world and still end up where you started. But, if you are still the same, you did something wrong.](https://twitter.com/steventhecoder/status/1292796363240071168)
-- [steventhecoder: RT @FlorianReinold: On the way back on our bicycles from Nakhon Pathom, @mpeer and I passed ‘Soi Chom Thong’ in Thonburi. The alternative n…](https://twitter.com/steventhecoder/status/1292420492427763714)
+- [[Action required] Your RSS.app Trial has Expired - Fri Oct 30 2020](https://rss.app)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

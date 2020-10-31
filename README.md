@@ -70,7 +70,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Oct 31 2020](https://rss.app)
+- [@steventhecoder: Sadly, it looks like #Docker will start to enforce rate limits of 100 container image pulls (200 for Free authenticated users) every 6 hours starting Monday. New image-retention policies have been pushed until mid-2021.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd15089267d16de1ca1a7c128f3cc76083)
+- [@steventhecoder: #Coroutines (#C++20), not a bad addition to the standard, reminds me of await and yield in C#](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edf13099067dc6ae4c4127d168839c56585)
+- [@steventhecoder: Perfect replacement for #Blackpanther. Both are good actors. #WakandaForever! RIP #ChadwickBoseman. #TenetMovie](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7fd61d079069d56ae8ca1573178c3bc66384)
+- [@steventhecoder: You can #travel a good part of, or the whole of, the world and still end up where you started. But, if you are still the same, you did something wrong.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7fd616089a66d66ee2c0167b148c3ac46589)
+- [@FlorianReinold: On the way back on our bicycles from Nakhon Pathom, @mpeer and I passed ‘Soi Chom Thong’ in Thonburi. The alternative name says ‘Soi Negro’ (ซอยนิโกร) - does anybody have some historical background info how that street got its name?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3933bdf3cbe38928808f69c8ee1bea4f2d899a2db0bd6b7fd6160c9b64d16ee3c21473118832c66a83)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

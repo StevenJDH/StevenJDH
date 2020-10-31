@@ -70,7 +70,7 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Fri Oct 30 2020](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sat Oct 31 2020](https://rss.app)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

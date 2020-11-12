@@ -70,11 +70,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@steventhecoder: Proof that a #quarantine can make us that much more creative even if it is just out of necessity.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd120c9269d760e1ca1072108e3dc66b87)
+- [@steventhecoder: Great additions in #csharp 9.0, but I don’t like having the main method as optional now, feels too much like scripting. #VisualStudio #Dotnet](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd120c9266d369e9ca117f13893dcc6283)
 - [@steventhecoder: Sadly, it looks like #Docker will start to enforce rate limits of 100 container image pulls (200 for Free authenticated users) every 6 hours starting Monday. New image-retention policies have been pushed until mid-2021.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd15089267d16de1ca1a7c128f3cc76083)
 - [@steventhecoder: #Coroutines (#C++20), not a bad addition to the standard, reminds me of await and yield in C#](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edf13099067dc6ae4c4127d168839c56585)
 - [@steventhecoder: Perfect replacement for #Blackpanther. Both are good actors. #WakandaForever! RIP #ChadwickBoseman. #TenetMovie](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7fd61d079069d56ae8ca1573178c3bc66384)
-- [@steventhecoder: You can #travel a good part of, or the whole of, the world and still end up where you started. But, if you are still the same, you did something wrong.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7fd616089a66d66ee2c0167b148c3ac46589)
-- [steventhecoder: RT @FlorianReinold: On the way back on our bicycles from Nakhon Pathom, @mpeer and I passed ‘Soi Chom Thong’ in Thonburi. The alternative n…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7fd6160b9160d161e3c6107c138d38c26285)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

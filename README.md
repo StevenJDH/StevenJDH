@@ -70,7 +70,7 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@steventhecoder: #Amazon #SES now offers list and subscription management capabilities in #AWS natively. Those implementing #GDPR say thank you! 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd130c9767d76be6c4117e158b3bc36488)
+- [@steventhecoder: #Amazon #SES now offers list and subscription management capabilities  in #AWS natively. Those implementing #GDPR say thank you! 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd130c9767d76be6c4117e158b3bc36488)
 - [@steventhecoder: For those of you who liked the #tenetmovie, have a look at this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd130d9063dc6be0c61b731d8c3ec76085)
 - [@steventhecoder: Huge update in #dotNet5, I’ve been looking forward to this one.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd120a9766dd6be7c31b7e168a3cc16281)
 - [@steventhecoder: Proof that a #quarantine can make us that much more creative even if it is just out of necessity.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd120c9269d760e1ca1072108e3dc66b87)

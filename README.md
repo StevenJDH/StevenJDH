@@ -73,7 +73,7 @@
 - [steventhecoder: Fusion Reactor Sets Record By Running for 20 Seconds](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edb17069a68d36ce4cb137f118b32c66283)
 - [steventhecoder: What's next for System.Text.Json?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edb140b9669d46ee3c0177f17833ec46682)
 - [steventhecoder: #Paypal embraces #cryptocurrency finally! Please bring this service to Europe and Asia soon @PayPal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edc160b9368d46fe6c511791c883cc66486)
-- [steventhecoder: #Amazon #SES now offers list and subscription management capabilities in #AWS natively. Those implementing #GDPR say thank you! 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd130c9767d76be6c4117e158b3bc36488)
+- [steventhecoder: #Amazon #SES now offers list and subscription management capabilities  in #AWS natively. Those implementing #GDPR say thank you! 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd130c9767d76be6c4117e158b3bc36488)
 - [steventhecoder: For those of you who liked the #tenetmovie, have a look at this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edd130d9063dc6be0c61b731d8c3ec76085)
 <!-- TWITTER:END -->
 

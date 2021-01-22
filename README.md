@@ -99,8 +99,8 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 💪 Opened PR [#136](https://github.com/dgkanatsios/CKAD-exercises/pull/136) in [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+1. 💪 Opened PR [#167](https://github.com/dgkanatsios/CKAD-exercises/pull/167) in [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+2. ❗️ Opened issue [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 </details>

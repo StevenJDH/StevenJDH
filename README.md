@@ -70,11 +70,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [steventhecoder: Announcing #Spring Native Beta!  let’s see how it fairs against #Quarkus](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed8140b9668d36ee1cb1a7f118a3dc36388)
 - [steventhecoder: New Study Proposes Warp Drive That Might Actually Work - ExtremeTech](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed91d0c9768d360e8c01b72108e3acc6384)
 - [@steventhecoder: #Blockchain technology being used for IDs. Now we just need #Apple to apply its own crypto to #ApplePay  #Microsoft](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed9130e9065dd6de3c1177e158f3ec26085)
 - [steventhecoder: Mars Needs Minerals: Researchers Are Trying to Turn the Red Planet Green](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7eda160e9b63d06fe7cb127a11823ec46087)
 - [steventhecoder: Fusion Reactor Sets Record By Running for 20 Seconds](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edb17069a68d36ce4cb137f118b32c66283)
-- [@steventhecoder: What's next for System.Text.Json?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7edb140b9669d46ee3c0177f17833ec46682)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

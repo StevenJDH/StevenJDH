@@ -99,8 +99,8 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#167](https://github.com/dgkanatsios/CKAD-exercises/pull/167) in [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
-2. ❗️ Opened issue [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Closed issue [#1](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/1) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
+2. 🗣 Commented on [#1](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/1) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
 <!--END_SECTION:activity-->
 
 </details>

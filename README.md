@@ -99,8 +99,8 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/2) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
-2. 💪 Opened PR [#1376](https://github.com/dapr/docs/pull/1376) in [dapr/docs](https://github.com/dapr/docs)
+1. 🗣 Commented on [#2](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/2) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
+2. ❗️ Closed issue [#2](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/2) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
 <!--END_SECTION:activity-->
 
 </details>

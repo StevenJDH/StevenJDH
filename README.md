@@ -99,8 +99,8 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/2) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
-2. ❗️ Closed issue [#2](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/2) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
+1. ❗️ Closed issue [#3](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/3) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
+2. ❗️ Opened issue [#3](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/3) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
 <!--END_SECTION:activity-->
 
 </details>

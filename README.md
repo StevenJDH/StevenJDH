@@ -70,11 +70,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@steventhecoder: Amazon Stock Tracker v1.0.0.21041 released with Voice, SMS, and Email alerts. For more information and downloads, visit  #Github #StevenJDH #Amazon #Stock #Restock #ps5restock #Xboxrestock](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed717089661d26be6c31b7f1d8a38c26a87)
 - [steventhecoder: Nice one @amazon, I love the #duck hidden in your #HTML code.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed812099666d46fe5c61078158e33c26b84)
-- [@steventhecoder: #Rawsie Claims It Can Make #RAW Files 80% Smaller with No Quality Loss  …](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed8170f9766d66de5ca167c128a3cc56083)
-- [steventhecoder: Announcing #Spring Native Beta!   let’s see how it fairs against #Quarkus](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed8140b9668d36ee1cb1a7f118a3dc36388)
-- [steventhecoder: New Study Proposes Warp Drive That Might Actually Work - ExtremeTech  …](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed91d0c9768d360e8c01b72108e3acc6384)
-- [@steventhecoder: #Blockchain technology being used for IDs. Now we just need #Apple to apply its own crypto to #ApplePay  #Microsoft](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed9130e9065dd6de3c1177e158f3ec26085)
+- [@steventhecoder: #Rawsie Claims It Can Make #RAW Files 80% Smaller with No Quality Loss](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed8170f9766d66de5ca167c128a3cc56083)
+- [steventhecoder: Announcing #Spring Native Beta!  let’s see how it fairs against #Quarkus](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed8140b9668d36ee1cb1a7f118a3dc36388)
+- [steventhecoder: New Study Proposes Warp Drive That Might Actually Work - ExtremeTech](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed91d0c9768d360e8c01b72108e3acc6384)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

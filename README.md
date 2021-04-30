@@ -100,7 +100,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/4) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
-2. 🗣 Commented on [#76](https://github.com/dgkanatsios/CKAD-exercises/issues/76) in [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+2. 🗣 Commented on [#4](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/4) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
 <!--END_SECTION:activity-->
 
 </details>

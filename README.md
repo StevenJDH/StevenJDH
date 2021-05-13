@@ -99,8 +99,8 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4395](https://github.com/terraform-providers/terraform-provider-azurerm/issues/4395) in [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-2. 🗣 Commented on [#4](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/4) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
+1. 💪 Opened PR [#24221](https://github.com/dotnet/docs/pull/24221) in [dotnet/docs](https://github.com/dotnet/docs)
+2. 🗣 Commented on [#4395](https://github.com/terraform-providers/terraform-provider-azurerm/issues/4395) in [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
 <!--END_SECTION:activity-->
 
 </details>

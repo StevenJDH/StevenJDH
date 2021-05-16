@@ -2,7 +2,7 @@
 
 ## Hello, I'm Steven (สตีเวน) - aka [StevenJDH][website] <img alt="waving hand" src="assets/Hi.gif" width="25px">
 
-[![Website](https://img.shields.io/website?down_color=green&down_message=Full&label=🍺Buy%20me%20a%20beer&style=for-the-badge&up_color=yellow&up_message=Thirsty&url=https%3A%2F%2Fwww.paypal.me%2Fstevenjdh%2F5)](https://www.paypal.me/stevenjdh/5 "Buy me a beer with PayPal")
+[![Website](https://img.shields.io/website?down_color=green&down_message=water&label=🍺Buy%20me%20a&style=for-the-badge&up_color=yellow&up_message=beer&url=https%3A%2F%2Fwww.paypal.me%2Fstevenjdh%2F5)](https://www.paypal.me/stevenjdh/5 "Buy me a beer with PayPal")
 [![Twitter Follow](https://img.shields.io/twitter/follow/steventhecoder?color=1DA1F2&logo=twitter&label=Twitter%20%7C%20Follow%20Me&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStevenJDH&screen_name=steventhecoder "Follow me on Twitter")
 
 
@@ -99,9 +99,6 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24221](https://github.com/dotnet/docs/pull/24221) in [dotnet/docs](https://github.com/dotnet/docs)
-2. 🗣 Commented on [#4395](https://github.com/terraform-providers/terraform-provider-azurerm/issues/4395) in [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-<!--END_SECTION:activity-->
 
 </details>
 

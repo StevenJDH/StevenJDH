@@ -1,8 +1,8 @@
 name: Latest GitHub Activity
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every Sunday at midnight.
+    - cron: '0 0 * * 0'
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly.
 
 jobs:
@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -97,6 +97,7 @@
 
 <details>
   <summary>⚡Recent GitHub Activity</summary>
+
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#24221](https://github.com/dotnet/docs/pull/24221) in [dotnet/docs](https://github.com/dotnet/docs)
@@ -110,5 +111,5 @@
 
 [website]: https://github.com/StevenJDH "GitHub"
 [twitter]: https://twitter.com/steventhecoder "Twitter"
-[linkedin]:https://www.linkedin.com/in/stevendeharo "LinkedIn"
+[linkedin]: https://www.linkedin.com/in/stevendeharo "LinkedIn"
 [devto]: https://dev.to/stevenjdh "dev.to"

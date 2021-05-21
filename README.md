@@ -97,14 +97,14 @@
 
 <details>
   <summary>⚡Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#24221](https://github.com/dotnet/docs/pull/24221) in [dotnet/docs](https://github.com/dotnet/docs)
 2. 🗣 Commented on [#4395](https://github.com/terraform-providers/terraform-provider-azurerm/issues/4395) in [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
 3. 🗣 Commented on [#4](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/4) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
 4. 🗣 Commented on [#4](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/4) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
 5. 🗣 Commented on [#76](https://github.com/dgkanatsios/CKAD-exercises/issues/76) in [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 </details>
 

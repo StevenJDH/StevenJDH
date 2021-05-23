@@ -4,7 +4,7 @@ settings:
   max_lines: 5
   readme_file: "./README.md"
   disabled_events:
-    - "new_star"
+    - "star"
   url_text: "{REPO}{ID}"
   date:
     timezone: "Europe/Madrid"

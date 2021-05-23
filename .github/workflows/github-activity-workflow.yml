@@ -11,9 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@v1.3.0
+      - uses: Readme-Workflows/recent-activity@v2.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          DATE_STRING: "Last Updated: {DATE} (GMT)"
-          DATE_FORMAT: "dddd, yyyy/mm/dd, h:MM:ss TT"
+          CONFIG_FILE: "./.github/recent-activity-config.yml"

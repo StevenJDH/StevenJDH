@@ -100,7 +100,7 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2021/09/05, 2:42:00 AM GMT+0200
+Last Updated: Sunday 2021/09/12, 2:41:56 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ✔️ Closed issue [#21](https://github.com/AdoptOpenJDK/install-jdk/issues/21) in [AdoptOpenJDK/install-jdk](https://github.com/AdoptOpenJDK/install-jdk)

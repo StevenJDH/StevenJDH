@@ -100,13 +100,13 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2021/12/05, 1:46:22 AM GMT+0100
+Last Updated: Sunday 2021/12/12, 1:46:08 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#21](https://github.com/AdoptOpenJDK/install-jdk/issues/21) in [AdoptOpenJDK/install-jdk](https://github.com/AdoptOpenJDK/install-jdk)
-2. ❗️ Opened issue [#21](https://github.com/AdoptOpenJDK/install-jdk/issues/21) in [AdoptOpenJDK/install-jdk](https://github.com/AdoptOpenJDK/install-jdk)
-3. 📔 Created new repository [StevenJDH/OSSRH-72529](https://github.com/StevenJDH/OSSRH-72529)
-4. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/simple-ssl/wiki/FAQ) in [StevenJDH/simple-ssl](https://github.com/StevenJDH/simple-ssl)
+1. 💪 Opened PR [#264](https://github.com/Q42/Q42.HueApi/pull/264) in [Q42/Q42.HueApi](https://github.com/Q42/Q42.HueApi)
+2. 🎉 Merged PR [#1](https://github.com/StevenJDH/Q42.HueApi/pull/1) in [StevenJDH/Q42.HueApi](https://github.com/StevenJDH/Q42.HueApi)
+3. 💪 Opened PR [#1](https://github.com/StevenJDH/Q42.HueApi/pull/1) in [StevenJDH/Q42.HueApi](https://github.com/StevenJDH/Q42.HueApi)
+4. 🔱 Forked [StevenJDH/Q42.HueApi](https://github.com/StevenJDH/Q42.HueApi) from [Q42/Q42.HueApi](https://github.com/Q42/Q42.HueApi)
 5. 📖 Created new wiki page [Home](https://github.com/StevenJDH/simple-ssl/wiki/Home) in [StevenJDH/simple-ssl](https://github.com/StevenJDH/simple-ssl)
 <!--RECENT_ACTIVITY:end-->
 

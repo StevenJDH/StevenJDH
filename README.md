@@ -100,14 +100,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2022/01/30, 1:44:18 AM GMT+0100
+Last Updated: Sunday 2022/02/06, 3:01:23 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#265](https://github.com/Q42/Q42.HueApi/issues/265) in [Q42/Q42.HueApi](https://github.com/Q42/Q42.HueApi)
-2. 💪 Opened PR [#264](https://github.com/Q42/Q42.HueApi/pull/264) in [Q42/Q42.HueApi](https://github.com/Q42/Q42.HueApi)
-3. 🎉 Merged PR [#1](https://github.com/StevenJDH/Q42.HueApi/pull/1) in [StevenJDH/Q42.HueApi](https://github.com/StevenJDH/Q42.HueApi)
-4. 💪 Opened PR [#1](https://github.com/StevenJDH/Q42.HueApi/pull/1) in [StevenJDH/Q42.HueApi](https://github.com/StevenJDH/Q42.HueApi)
-5. 🔱 Forked [StevenJDH/Q42.HueApi](https://github.com/StevenJDH/Q42.HueApi) from [Q42/Q42.HueApi](https://github.com/Q42/Q42.HueApi)
+1. ✌️ Released [1.0.0](https://github.com/StevenJDH/simple-ssl/releases/tag/1.0.0) in [StevenJDH/simple-ssl](https://github.com/StevenJDH/simple-ssl)
+2. ✌️ Released [1.0.0](https://github.com/StevenJDH/simple-ssl/releases/tag/1.0.0) in [StevenJDH/simple-ssl](https://github.com/StevenJDH/simple-ssl)
+3. ✌️ Released [1.0.0](https://github.com/StevenJDH/simple-ssl/releases/tag/1.0.0) in [StevenJDH/simple-ssl](https://github.com/StevenJDH/simple-ssl)
+4. 🔱 Forked [StevenJDH/gogui-1](https://github.com/StevenJDH/gogui-1) from [Remi-Coulom/gogui](https://github.com/Remi-Coulom/gogui)
+5. ❗️ Opened issue [#265](https://github.com/Q42/Q42.HueApi/issues/265) in [Q42/Q42.HueApi](https://github.com/Q42/Q42.HueApi)
 <!--RECENT_ACTIVITY:end-->
 
 </details>

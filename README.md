@@ -70,11 +70,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@steventhecoder: Amazon Stock Tracker v1.0.0.21041 released with Voice, SMS, and Email alerts. For more information and downloads, visit  #Github #StevenJDH #Amazon #Stock #Restock #ps5restock #Xboxrestock](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed717089661d26be6c31b7f1d8a38c26a87)
-- [steventhecoder: Nice one @amazon, I love the #duck hidden in your #HTML code.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed812099666d46fe5c61078158e33c26b84)
-- [@steventhecoder: #Rawsie Claims It Can Make #RAW Files 80% Smaller with No Quality Loss](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed8170f9766d66de5ca167c128a3cc56083)
-- [steventhecoder: Announcing #Spring Native Beta!  let’s see how it fairs against #Quarkus](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed8140b9668d36ee1cb1a7f118a3dc36388)
-- [steventhecoder: New Study Proposes Warp Drive That Might Actually Work](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b7ed91d0c9768d360e8c01b72108e3acc6384)
+- [@steventhecoder: Dinosaur Egg Found in China Has 72M-Year-Old Embryo](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79d7140b9466d26ce3c715781c883bc46784)
+- [@steventhecoder: DARPA and NASA Scientists Accidentally Create Warp Bubble for Interstellar Travel](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79d814099662d26fe8c71772128839cd6a87)
+- [@steventhecoder: Astronomers Discover Enormous Exoplanet Where it Shouldn&#39;t Exist](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79d8140e9667d069e9cb147d148c3ac76a86)
+- [@steventhecoder: I always love #Thailand&#39;s creative solutions ❤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79dc1c069767d76de8c0167a158332c66b86)
+- [@steventhecoder: Giruses! This video was super interesting](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79dc170e9661d66ae8c7177916833ac36385)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

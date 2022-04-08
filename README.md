@@ -70,11 +70,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@steventhecoder: Scientists Have Finished Sequencing the Human Genome. Again.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b78de15079562d360e8c1167e16823bc76780)
 - [@steventhecoder: Scientists Have Found a Way to Create Universal Donor Lungs - ExtremeTech](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79d612099160dd69e2c1107816833bc66b87)
 - [@steventhecoder: Dinosaur Egg Found in China Has 72M-Year-Old Embryo](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79d7140b9466d26ce3c715781c883bc46784)
 - [@steventhecoder: DARPA and NASA Scientists Accidentally Create Warp Bubble for Interstellar Travel](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79d814099662d26fe8c71772128839cd6a87)
 - [@steventhecoder: Astronomers Discover Enormous Exoplanet Where it Shouldn&#39;t Exist](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79d8140e9667d069e9cb147d148c3ac76a86)
-- [@steventhecoder: I always love #Thailand&#39;s creative solutions ❤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7ec9312808568c3e70dea4f2d899a2db0bd6b79dc1c069767d76de8c0167a158332c66b86)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

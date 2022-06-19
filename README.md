@@ -99,14 +99,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2022/06/12, 3:13:08 AM GMT+0200
+Last Updated: Sunday 2022/06/19, 3:13:39 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Maintaining-DPI-Support-in-VS-2022](https://github.com/StevenJDH/Amazon-Stock-Tracker/wiki/Maintaining-DPI-Support-in-VS-2022) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
-2. 📖 Created new wiki page [Maintaining-DPI-Support-in-VS-2022](https://github.com/StevenJDH/Hue-Meetings/wiki/Maintaining-DPI-Support-in-VS-2022) in [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)
-3. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/Hue-Meetings/wiki/FAQ) in [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)
-4. 📖 Created new wiki page [Home](https://github.com/StevenJDH/Hue-Meetings/wiki/Home) in [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)
-5. 📔 Created new repository [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)
+1. ✔️ Closed issue [#5](https://github.com/StevenJDH/Amazon-Stock-Tracker/issues/5) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
+2. 📖 Created new wiki page [Maintaining-DPI-Support-in-VS-2022](https://github.com/StevenJDH/Amazon-Stock-Tracker/wiki/Maintaining-DPI-Support-in-VS-2022) in [StevenJDH/Amazon-Stock-Tracker](https://github.com/StevenJDH/Amazon-Stock-Tracker)
+3. 📖 Created new wiki page [Maintaining-DPI-Support-in-VS-2022](https://github.com/StevenJDH/Hue-Meetings/wiki/Maintaining-DPI-Support-in-VS-2022) in [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)
+4. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/Hue-Meetings/wiki/FAQ) in [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)
+5. 📖 Created new wiki page [Home](https://github.com/StevenJDH/Hue-Meetings/wiki/Home) in [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)
 <!--RECENT_ACTIVITY:end-->
 
 </details>

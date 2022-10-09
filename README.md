@@ -99,7 +99,7 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2022/10/02, 3:45:58 AM GMT+0200
+Last Updated: Sunday 2022/10/09, 3:27:51 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#319](https://github.com/kedacore/charts/pull/319) in [kedacore/charts](https://github.com/kedacore/charts)

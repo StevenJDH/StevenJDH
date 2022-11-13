@@ -99,14 +99,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2022/11/06, 2:18:24 AM GMT+0100
+Last Updated: Sunday 2022/11/13, 2:15:59 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [2.8.7](https://github.com/StevenJDH/aws-cwl-exporter/releases/tag/2.8.7) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
+1. ✌️ Released [1.0.0](https://github.com/StevenJDH/covid-tracker/releases/tag/1.0.0) in [StevenJDH/covid-tracker](https://github.com/StevenJDH/covid-tracker)
 2. ✌️ Released [2.8.7](https://github.com/StevenJDH/aws-cwl-exporter/releases/tag/2.8.7) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
-3. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/aws-cwl-exporter/wiki/FAQ) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
-4. 📖 Created new wiki page [Home](https://github.com/StevenJDH/aws-cwl-exporter/wiki/Home) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
-5. 📔 Created new repository [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
+3. ✌️ Released [2.8.7](https://github.com/StevenJDH/aws-cwl-exporter/releases/tag/2.8.7) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
+4. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/aws-cwl-exporter/wiki/FAQ) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
+5. 📖 Created new wiki page [Home](https://github.com/StevenJDH/aws-cwl-exporter/wiki/Home) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
 <!--RECENT_ACTIVITY:end-->
 
 </details>

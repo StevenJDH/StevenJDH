@@ -99,14 +99,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2022/12/04, 2:03:37 AM GMT+0100
+Last Updated: Sunday 2022/12/11, 2:08:58 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/StevenJDH/helm-charts/pull/3) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-2. 💪 Opened PR [#3](https://github.com/StevenJDH/helm-charts/pull/3) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-3. 🎉 Merged PR [#2](https://github.com/StevenJDH/helm-charts/pull/2) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-4. 💪 Opened PR [#2](https://github.com/StevenJDH/helm-charts/pull/2) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-5. ✌️ Released [1.0.0](https://github.com/StevenJDH/covid-tracker/releases/tag/1.0.0) in [StevenJDH/covid-tracker](https://github.com/StevenJDH/covid-tracker)
+1. 🎉 Merged PR [#6](https://github.com/StevenJDH/helm-charts/pull/6) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+2. 💪 Opened PR [#6](https://github.com/StevenJDH/helm-charts/pull/6) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+3. ✌️ Released [2.9.4](https://github.com/StevenJDH/aws-cwl-exporter/releases/tag/2.9.4) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
+4. 🎉 Merged PR [#5](https://github.com/StevenJDH/helm-charts/pull/5) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+5. 💪 Opened PR [#5](https://github.com/StevenJDH/helm-charts/pull/5) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>

@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2023/02/19, 2:06:34 AM GMT+0100
+Last Updated: Sunday 2023/02/26, 2:12:05 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/StevenJDH/helm-charts/pull/7) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-2. 💪 Opened PR [#7](https://github.com/StevenJDH/helm-charts/pull/7) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-3. ✌️ Released [2.9.15](https://github.com/StevenJDH/aws-cwl-exporter/releases/tag/2.9.15) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
-4. 🎉 Merged PR [#6](https://github.com/StevenJDH/helm-charts/pull/6) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-5. 💪 Opened PR [#6](https://github.com/StevenJDH/helm-charts/pull/6) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+1. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/Terraform-Modules/wiki/FAQ) in [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)
+2. 📖 Created new wiki page [Home](https://github.com/StevenJDH/Terraform-Modules/wiki/Home) in [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)
+3. 🎉 Merged PR [#7](https://github.com/StevenJDH/helm-charts/pull/7) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+4. 💪 Opened PR [#7](https://github.com/StevenJDH/helm-charts/pull/7) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+5. ✌️ Released [2.9.15](https://github.com/StevenJDH/aws-cwl-exporter/releases/tag/2.9.15) in [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)
 <!--RECENT_ACTIVITY:end-->
 
 </details>

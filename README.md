@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2023/04/16, 3:00:32 AM GMT+0200
+Last Updated: Sunday 2023/04/23, 3:03:56 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/StevenJDH/helm-charts/pull/8) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-2. 💪 Opened PR [#8](https://github.com/StevenJDH/helm-charts/pull/8) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
-3. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/Terraform-Modules/wiki/FAQ) in [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)
-4. 📖 Created new wiki page [Home](https://github.com/StevenJDH/Terraform-Modules/wiki/Home) in [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)
-5. 🎉 Merged PR [#7](https://github.com/StevenJDH/helm-charts/pull/7) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+1. 🎉 Merged PR [#1](https://github.com/StevenJDH/Qlik-Sense-Java-Examples/pull/1) in [StevenJDH/Qlik-Sense-Java-Examples](https://github.com/StevenJDH/Qlik-Sense-Java-Examples)
+2. 🎉 Merged PR [#8](https://github.com/StevenJDH/helm-charts/pull/8) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+3. 💪 Opened PR [#8](https://github.com/StevenJDH/helm-charts/pull/8) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)
+4. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/Terraform-Modules/wiki/FAQ) in [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)
+5. 📖 Created new wiki page [Home](https://github.com/StevenJDH/Terraform-Modules/wiki/Home) in [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)
 <!--RECENT_ACTIVITY:end-->
 
 </details>

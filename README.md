@@ -3,14 +3,14 @@
 ## Hello, I'm Steven (สตีเวน) - aka [StevenJDH][website] <img alt="waving hand" src="assets/Hi.gif" width="25">
 
 [![Website](https://img.shields.io/website?down_color=green&down_message=water&label=🍺Buy%20me%20a&style=for-the-badge&up_color=yellow&up_message=beer&url=https%3A%2F%2Fwww.paypal.me%2Fstevenjdh%2F5)](https://www.paypal.me/stevenjdh/5 "Buy me a beer with PayPal")
-[![Twitter Follow](https://img.shields.io/badge/follow-%40steventhecoder-1DA1F2?logo=twitter&label=Twitter%20%7C%20Follow%20Me&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStevenJDH&screen_name=steventhecoder "Follow me on Twitter")
+[![Twitter Follow](https://img.shields.io/badge/follow-%40steventhecoder-1DA1F2?logo=twitter&label=Follow%20Me&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStevenJDH&screen_name=steventhecoder "Follow me on Twitter")
 
 ## I'm a Developer, Traveler, Entrepreneur, and Photographer!!
 
 - 🔭 I just started some interesting projects for the near future!
 - 🌱 I’m currently learning more things than I can list here. 🤣
 - 👯 I’m looking to collaborate with other developers and content creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: My best ideas come to me when I'm in the shower. 😊
 
 ### Connect With Me:

@@ -3,6 +3,7 @@
 
 ### My additional ignores ###
 /[Rr]esources
+/*.wiki
 
 ### VisualStudioCode ###
 .vscode/*

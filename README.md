@@ -92,7 +92,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.stevenjdh.vercel.app/api?username=stevenjdh&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.stevenjdh.vercel.app/api/top-langs/?username=stevenjdh&layout=compact&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats-stevenjdh.vercel.app/api?username=stevenjdh&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats-stevenjdh.vercel.app/api/top-langs/?username=stevenjdh&layout=compact&hide_border=true&langs_count=8)
 
 <details>
   <summary>⚡Recent GitHub Activity</summary>

@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2023/09/03, 2:52:26 AM GMT+0200
+Last Updated: Sunday 2023/09/10, 2:53:00 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/AWS-URL-Shortener/wiki/FAQ) in [StevenJDH/AWS-URL-Shortener](https://github.com/StevenJDH/AWS-URL-Shortener)
-2. 📖 Created new wiki page [Home](https://github.com/StevenJDH/AWS-URL-Shortener/wiki/Home) in [StevenJDH/AWS-URL-Shortener](https://github.com/StevenJDH/AWS-URL-Shortener)
-3. 📔 Created new repository [StevenJDH/AWS-URL-Shortener](https://github.com/StevenJDH/AWS-URL-Shortener)
-4. 📖 Created new wiki page [Donate-Cryptocurrency](https://github.com/StevenJDH/StevenJDH/wiki/Donate-Cryptocurrency) in [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)
-5. 📖 Created new wiki page [Home](https://github.com/StevenJDH/StevenJDH/wiki/Home) in [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)
+1. ✌️ Released [1.0.0](https://github.com/StevenJDH/AWS-URL-Shortener/releases/tag/1.0.0) in [StevenJDH/AWS-URL-Shortener](https://github.com/StevenJDH/AWS-URL-Shortener)
+2. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/AWS-URL-Shortener/wiki/FAQ) in [StevenJDH/AWS-URL-Shortener](https://github.com/StevenJDH/AWS-URL-Shortener)
+3. 📖 Created new wiki page [Home](https://github.com/StevenJDH/AWS-URL-Shortener/wiki/Home) in [StevenJDH/AWS-URL-Shortener](https://github.com/StevenJDH/AWS-URL-Shortener)
+4. 📔 Created new repository [StevenJDH/AWS-URL-Shortener](https://github.com/StevenJDH/AWS-URL-Shortener)
+5. 📖 Created new wiki page [Donate-Cryptocurrency](https://github.com/StevenJDH/StevenJDH/wiki/Donate-Cryptocurrency) in [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)
 <!--RECENT_ACTIVITY:end-->
 
 </details>

@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every day at midnight.
     - cron: "0 0 * * *"
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly.
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly.
 
 jobs:
   download-assets:
@@ -18,7 +18,7 @@ jobs:
         run: curl 'https://github-readme-stats-stevenjdh.vercel.app/api/top-langs/?username=stevenjdh&layout=compact&hide_border=true&langs_count=8' -o top-langs.svg
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: assets
           path: |
@@ -36,7 +36,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: assets
           path: assets

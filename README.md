@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2024/03/10, 1:54:39 AM GMT+0100
+Last Updated: Sunday 2024/03/17, 1:54:39 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)<br>
-2. ⬆️ Pushed 1 commit(s) to [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)<br>
-3. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
-4. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
-5. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
+1. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/action-tagger/wiki/FAQ) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+2. 📖 Created new wiki page [Home](https://github.com/StevenJDH/action-tagger/wiki/Home) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+3. ⬆️ Pushed 1 commit(s) to [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+4. 📔 Created new repository [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+5. ⬆️ Pushed 1 commit(s) to [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

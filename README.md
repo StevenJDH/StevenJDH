@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2024/04/21, 2:56:53 AM GMT+0200
+Last Updated: Sunday 2024/04/28, 2:57:31 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
-2. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
-3. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
-4. ⬆️ Pushed 3 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
-5. ⬆️ Pushed 2 commit(s) to [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+1. ⬆️ Pushed 2 commit(s) to [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)<br>
+2. ⬆️ Pushed 1 commit(s) to [StevenJDH/aws-cwl-exporter](https://github.com/StevenJDH/aws-cwl-exporter)<br>
+3. ⬆️ Pushed 0 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
+4. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
+5. 🎉 Merged PR [#9](https://github.com/StevenJDH/helm-charts/pull/9) in [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

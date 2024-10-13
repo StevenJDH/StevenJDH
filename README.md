@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2024/10/06, 3:12:49 AM GMT+0200
+Last Updated: Sunday 2024/10/13, 3:12:37 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#129](https://github.com/octokit/dotnet-sdk/issues/129) in [octokit/dotnet-sdk](https://github.com/octokit/dotnet-sdk)<br>
-2. ❗️ Opened issue [#337](https://github.com/mattpannella/pupdate/issues/337) in [mattpannella/pupdate](https://github.com/mattpannella/pupdate)<br>
-3. ✔️ Closed issue [#1932](https://github.com/tchiotludo/akhq/issues/1932) in [tchiotludo/akhq](https://github.com/tchiotludo/akhq)<br>
-4. ✌️ Released [0.3.0](https://github.com/StevenJDH/akhq-acl-mapper/releases/tag/0.3.0) in [StevenJDH/akhq-acl-mapper](https://github.com/StevenJDH/akhq-acl-mapper)<br>
-5. ⬆️ Pushed 1 commit(s) to [StevenJDH/akhq-acl-mapper](https://github.com/StevenJDH/akhq-acl-mapper)<br>
+1. ⬆️ Pushed 2 commit(s) to [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)<br>
+2. ⬆️ Pushed 3 commit(s) to [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)<br>
+3. ✌️ Released [v1.0.1](https://github.com/StevenJDH/branch-details/releases/tag/v1.0.1) in [StevenJDH/branch-details](https://github.com/StevenJDH/branch-details)<br>
+4. ⬆️ Pushed 1 commit(s) to [StevenJDH/branch-details](https://github.com/StevenJDH/branch-details)<br>
+5. 🎉 Merged PR [#1](https://github.com/StevenJDH/branch-details/pull/1) in [StevenJDH/branch-details](https://github.com/StevenJDH/branch-details)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

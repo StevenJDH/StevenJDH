@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2024/11/24, 2:16:20 AM GMT+0100
+Last Updated: Sunday 2024/12/01, 2:24:44 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)<br>
-2. ⬆️ Pushed 3 commit(s) to [StevenJDH/Hue-Meetings](https://github.com/StevenJDH/Hue-Meetings)<br>
-3. ✌️ Released [v1.0.1](https://github.com/StevenJDH/branch-details/releases/tag/v1.0.1) in [StevenJDH/branch-details](https://github.com/StevenJDH/branch-details)<br>
-4. ⬆️ Pushed 1 commit(s) to [StevenJDH/branch-details](https://github.com/StevenJDH/branch-details)<br>
-5. 🎉 Merged PR [#1](https://github.com/StevenJDH/branch-details/pull/1) in [StevenJDH/branch-details](https://github.com/StevenJDH/branch-details)<br>
+1. ✌️ Released [v1.0.0](https://github.com/StevenJDH/maven-version-checker/releases/tag/v1.0.0) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+2. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/maven-version-checker/wiki/FAQ) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+3. 📖 Created new wiki page [Home](https://github.com/StevenJDH/maven-version-checker/wiki/Home) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+4. ⬆️ Pushed 1 commit(s) to [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+5. ⬆️ Pushed 1 commit(s) to [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

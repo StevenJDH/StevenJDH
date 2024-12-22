@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2024/12/15, 2:19:51 AM GMT+0100
+Last Updated: Sunday 2024/12/22, 2:13:59 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)<br>
-2. ✌️ Released [v1.0.0](https://github.com/StevenJDH/maven-version-checker/releases/tag/v1.0.0) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
-3. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/maven-version-checker/wiki/FAQ) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
-4. 📖 Created new wiki page [Home](https://github.com/StevenJDH/maven-version-checker/wiki/Home) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
-5. ⬆️ Pushed 1 commit(s) to [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+2. ⬆️ Pushed 1 commit(s) to [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)<br>
+3. ✌️ Released [v1.0.0](https://github.com/StevenJDH/maven-version-checker/releases/tag/v1.0.0) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+4. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/maven-version-checker/wiki/FAQ) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+5. 📖 Created new wiki page [Home](https://github.com/StevenJDH/maven-version-checker/wiki/Home) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

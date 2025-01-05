@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2024/12/29, 2:14:47 AM GMT+0100
+Last Updated: Sunday 2025/01/05, 2:14:03 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)<br>
-2. ⬆️ Pushed 1 commit(s) to [StevenJDH/Terraform-Modules](https://github.com/StevenJDH/Terraform-Modules)<br>
-3. ✌️ Released [v1.0.0](https://github.com/StevenJDH/maven-version-checker/releases/tag/v1.0.0) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
-4. 📖 Created new wiki page [FAQ](https://github.com/StevenJDH/maven-version-checker/wiki/FAQ) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
-5. 📖 Created new wiki page [Home](https://github.com/StevenJDH/maven-version-checker/wiki/Home) in [StevenJDH/maven-version-checker](https://github.com/StevenJDH/maven-version-checker)<br>
+1. ✌️ Released [v1.1.0](https://github.com/StevenJDH/action-tagger/releases/tag/v1.1.0) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+2. ⬆️ Pushed 1 commit(s) to [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+3. ✔️ Closed issue [#1](https://github.com/StevenJDH/action-tagger/issues/1) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+4. 🎉 Merged PR [#2](https://github.com/StevenJDH/action-tagger/pull/2) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+5. 💪 Opened PR [#2](https://github.com/StevenJDH/action-tagger/pull/2) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

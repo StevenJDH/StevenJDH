@@ -10,7 +10,7 @@
 - 🔭 I just started some interesting projects for the near future!
 - 🌱 I’m currently learning more things than I can list here. 🤣
 - 👯 I’m looking to collaborate with other developers and content creators.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: My best ideas come to me when I'm in the shower. 😊
 
 ### Connect With Me:

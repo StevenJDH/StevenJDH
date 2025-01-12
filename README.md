@@ -98,14 +98,14 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2025/01/05, 2:14:03 AM GMT+0100
+Last Updated: Sunday 2025/01/12, 2:15:32 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.1.0](https://github.com/StevenJDH/action-tagger/releases/tag/v1.1.0) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
-2. ⬆️ Pushed 1 commit(s) to [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
-3. ✔️ Closed issue [#1](https://github.com/StevenJDH/action-tagger/issues/1) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
-4. 🎉 Merged PR [#2](https://github.com/StevenJDH/action-tagger/pull/2) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
-5. 💪 Opened PR [#2](https://github.com/StevenJDH/action-tagger/pull/2) in [StevenJDH/action-tagger](https://github.com/StevenJDH/action-tagger)<br>
+1. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
+2. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
+3. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
+4. ⬆️ Pushed 2 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
+5. ⬆️ Pushed 1 commit(s) to [StevenJDH/helm-charts](https://github.com/StevenJDH/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

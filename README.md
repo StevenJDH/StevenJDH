@@ -69,11 +69,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [Man Discovers Entire Underground City After Knocking Down Basement Wall](https://x.com/steventhecoder/status/1608259276598046720)
-- [First Human Trial of Experimental Cancer-Killing Virus Underway](https://x.com/steventhecoder/status/1528463156485492736)
-- [Dinosaur fossil from asteroid strike that caused extinction found, scien... https://t.co/YbTqqCubO0](https://x.com/steventhecoder/status/1520481977215893504)
-- [Scientists Have Finished Sequencing the Human Genome. Again. https://t.co/0k42m8D3XX](https://x.com/steventhecoder/status/1511862689345290241)
-- [Scientists Have Found a Way to Create Universal Donor Lungs](https://x.com/steventhecoder/status/1496620813323280386)
+- [@steventhecoder: Man Discovers Entire Underground City After Knocking Down Basement Wall](https://x.com/steventhecoder/status/1608259276598046720)
+- [@steventhecoder: First Human Trial of Experimental Cancer-Killing Virus Underway](https://x.com/steventhecoder/status/1528463156485492736)
+- [@steventhecoder: Dinosaur fossil from asteroid strike that caused extinction found, scien...](https://x.com/steventhecoder/status/1520481977215893504)
+- [@steventhecoder: Scientists Have Finished Sequencing the Human Genome. Again.](https://x.com/steventhecoder/status/1511862689345290241)
+- [@steventhecoder: Scientists Have Found a Way to Create Universal Donor Lungs](https://x.com/steventhecoder/status/1496620813323280386)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

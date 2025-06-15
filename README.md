@@ -98,14 +98,9 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2025/06/08, 3:27:20 AM GMT+0200
+Last Updated: Sunday 2025/06/15, 3:37:11 AM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [StevenJDH/strimzi-kafka-operator](https://github.com/StevenJDH/strimzi-kafka-operator)<br>
-2. ⬆️ Pushed 2 commit(s) to [StevenJDH/strimzi-kafka-operator](https://github.com/StevenJDH/strimzi-kafka-operator)<br>
-3. 💪 Opened PR [#11429](https://github.com/strimzi/strimzi-kafka-operator/pull/11429) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)<br>
-4. ⬆️ Pushed 1 commit(s) to [StevenJDH/strimzi-kafka-operator](https://github.com/StevenJDH/strimzi-kafka-operator)<br>
-5. ⬆️ Pushed 3 commit(s) to [StevenJDH/strimzi-kafka-operator](https://github.com/StevenJDH/strimzi-kafka-operator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>

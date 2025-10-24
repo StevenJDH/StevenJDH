@@ -69,11 +69,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [Man Discovers Entire Underground City After Knocking Down Basement Wall](https://x.com/steventhecoder/status/1608259276598046720)
-- [First Human Trial of Experimental Cancer-Killing Virus Underway](https://x.com/steventhecoder/status/1528463156485492736)
-- [Dinosaur fossil from asteroid strike that caused extinction found, scien...](https://x.com/steventhecoder/status/1520481977215893504)
-- [Scientists Have Finished Sequencing the Human Genome. Again.](https://x.com/steventhecoder/status/1511862689345290241)
-- [Scientists Have Found a Way to Create Universal Donor Lungs](https://x.com/steventhecoder/status/1496620813323280386)
+- [Man Discovers Entire Underground City After Knocking Down Basement Wall](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a69f0e08152f0b37b7e2cde68208ca9573c6f60ab61368dede60f1a7637fd8120a9a68d56ce7c5107b)
+- [First Human Trial of Experimental Cancer-Killing Virus Underway](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a69f0e08152f0b37b7e2cde68208ca9573c6f60ab61368dddc60f7a4697cda120b9b65d161e3c5117d)
+- [Dinosaur fossil from asteroid strike that caused extinction found, scien...](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a69f0e08152f0b37b7e2cde68208ca9573c6f60ab61368dddc68f7aa6b74d8130d9265dd61e2c7127f)
+- [Scientists Have Finished Sequencing the Human Genome. Again.](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a69f0e08152f0b37b7e2cde68208ca9573c6f60ab61368dddf69fba4687bd71d0c9765d761e1c0167a)
+- [Scientists Have Found a Way to Create Universal Donor Lungs](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a69f0e08152f0b37b7e2cde68208ca9573c6f60ab61368dcd76ef5a06a75de170c9163d760e1c11a7d)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets...](https://twitter.com/steventhecoder)

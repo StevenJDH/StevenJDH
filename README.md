@@ -83,6 +83,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Confluent&#39;s Schema Registry Wire Format](https://dev.to/stevenjdh/demystifying-confluents-schema-registry-wire-format-5465)
 - [Create a Kubernetes NGINX controller with Dapr support](https://dev.to/stevenjdh/create-a-kubernetes-nginx-controller-with-dapr-support-3e8n)
 - [Show your Tweets on your GitHub Profile README](https://dev.to/stevenjdh/show-your-tweets-on-your-github-profile-readme-141i)
 - [First Post](https://dev.to/stevenjdh/first-post-5c0e)

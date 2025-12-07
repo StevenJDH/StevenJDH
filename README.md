@@ -99,10 +99,10 @@
   <summary>⚡Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday 2025/11/30, 2:28:17 AM GMT+0100
+Last Updated: Sunday 2025/12/07, 2:36:52 AM GMT+0100
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [StevenJDH/Ferengi-Rules-of-Acquisition](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition)<br>
+1. ✌️ Released [1.0.0](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition/releases/tag/1.0.0) in [StevenJDH/Ferengi-Rules-of-Acquisition](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition)<br>
 2. ⬆️ Pushed undefined commit(s) to [StevenJDH/Ferengi-Rules-of-Acquisition](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition)<br>
 3. ⬆️ Pushed undefined commit(s) to [StevenJDH/Ferengi-Rules-of-Acquisition](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition)<br>
 4. ⬆️ Pushed undefined commit(s) to [StevenJDH/Ferengi-Rules-of-Acquisition](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition)<br>
